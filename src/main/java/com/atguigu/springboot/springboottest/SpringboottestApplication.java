@@ -11,7 +11,7 @@ public class SpringboottestApplication {
     }
 
 
-    public  void test(){}
+    public  void test(){}    public  void test2(){}
 
 
 
