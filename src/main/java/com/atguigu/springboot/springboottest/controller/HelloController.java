@@ -20,6 +20,7 @@ public class HelloController {
         System.out.println("dataSource = " + dataSource);
 
         System.out.println(123);
+      System.out.println(222);
         return  "hello";
     }
 }
