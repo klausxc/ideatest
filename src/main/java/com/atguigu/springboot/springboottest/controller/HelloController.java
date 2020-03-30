@@ -18,6 +18,7 @@ public class HelloController {
         HashMap<Object, Object> map = new HashMap<>();
         
         System.out.println("dataSource = " + dataSource);
+        System.out.println("123");
         return  "hello";
     }
 }
